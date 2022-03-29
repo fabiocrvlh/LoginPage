@@ -54,11 +54,6 @@
         >
           INSCREVER-SE
         </button>
-        <div class="">
-          {#if validar}
-            <p>hg</p>
-          {/if}
-        </div>
       </div>
     </div>
   </div>
