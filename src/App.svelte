@@ -11,6 +11,7 @@
       window.location.href = "https://marketbuy.vercel.app/";
     } else {
       validar = false;
+      window.location.href = "https://error-login.vercel.app/";
     }
   };
 </script>
@@ -45,12 +46,12 @@
       <div class=" flex py-4 ">
         <button
           on:click={validarAceito}
-          class="  ml-auto mr-2 bg-gray-500 rounded-md py-4 px-10 text-white hover:bg-red-500 "
+          class="  ml-auto mr-2 bg-gray-500  py-4 px-10 text-white hover:bg-red-500 rounded-bl-xl rounded-tr-xl "
         >
           LOGAR
         </button>
         <button
-          class="   mr-auto ml-2 bg-gray-500 rounded-md py-4 px-3 text-white hover:bg-red-500"
+          class="   mr-auto ml-2 bg-gray-500  py-4 px-3 text-white hover:bg-red-500 rounded-bl-xl rounded-tr-xl"
         >
           INSCREVER-SE
         </button>
