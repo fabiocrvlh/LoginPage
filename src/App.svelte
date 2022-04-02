@@ -32,13 +32,13 @@
       <div class=" flex flex-col items-center space-y-4 text-xl   ">
         <input
           bind:value={email}
-          class="bg-blue-100  w-5/6 rounded-md pl-3 outline-none hover:outline-red-500 lg:w-1/3 py-4 "
+          class="bg-blue-100  w-5/6  rounded-bl rounded-bl rounded-tr-xl pl-3 outline-none hover:outline-red-500 lg:w-1/3 py-4 "
           type="text "
           placeholder="E-mail"
         />
         <input
           bind:value={senha}
-          class="w-5/6 md:bg-blue-100 rounded-md pl-3 outline-none hover:outline-red-500 lg:w-1/3 py-4"
+          class="w-5/6 md:bg-blue-100  rounded-bl rounded-tr-xl pl-3 outline-none hover:outline-red-500 lg:w-1/3 py-4"
           type="password"
           placeholder="Senha"
         />
