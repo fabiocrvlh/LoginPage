@@ -18,7 +18,7 @@
 
 <div
   class="h-screen  "
-  style="background-image: url(https://www.pdvg.it/wp-content/uploads/2019/07/dying-light-2.jpg);"
+  style="background-image: url(https://w7.pngwing.com/pngs/511/894/png-transparent-dying-light-the-following-playstation-4-video-game-xbox-one-minecraft-game-text-graphic.png);"
 >
   <div>
     <img
