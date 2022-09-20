@@ -18,11 +18,11 @@
 
 <div
   class="h-screen  "
-  style="background-image: url(https://w7.pngwing.com/pngs/511/894/png-transparent-dying-light-the-following-playstation-4-video-game-xbox-one-minecraft-game-text-graphic.png);"
+  style="background-image: url(https://www.pdvg.it/wp-content/uploads/2019/07/dying-light-2.jpg);"
 >
   <div>
     <img
-      src="https://dl2.dyinglightgame.com/static/logo-big-798e6541ff2a742cfb7bdd40b7b1ad06.svg"
+      src="https://w7.pngwing.com/pngs/511/894/png-transparent-dying-light-the-following-playstation-4-video-game-xbox-one-minecraft-game-text-graphic.png"
       alt="logo"
       class="flex ml-auto mr-auto w-90 h-70 mb-10"
     />
